@@ -1,0 +1,71 @@
+
+#certificados{
+    margin-left: 1%;
+
+}
+
+
+#experiencia{
+    background-color:  #000000;
+    color: white;
+    margin: 2%;
+    align-self: center;
+
+}
+
+#proyectos{
+    background-color: rgb(202, 73, 51);
+    color: white;
+    margin: 2%;
+    align-self: center;
+
+}
+
+#imagenizquierda{
+    display: block;
+    background-color:  #000000;
+    width: 35%;
+    margin-left: 2%;
+}
+
+#imagenderecha{
+    background-color:  #000000;
+    width: 38%;
+    margin-right: 5%;
+}
+
+#footer {
+ background: linear-gradient(90deg,#000000,#000000 25%,#000000);
+ margin: 2%;
+}
+
+#footer a {
+ color: white;
+}
+
+#header img{
+    width: 80px;
+}
+
+#nav{
+ margin-top: -5%;
+ margin-left: auto;
+
+}
+
+span.sr-only{
+    color: #000000;
+}
+
+.carousel-inner img{
+
+    max-height: 48vh;
+    max-width: 95vh;
+    object-fit: cover;
+}
+
+#jornada{
+    margin-left: 1%;
+}
+
+
